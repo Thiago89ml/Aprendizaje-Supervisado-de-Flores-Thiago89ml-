@@ -13,4 +13,4 @@ Pruebas:
 4) Hay algunas Versicolor que tienen 11 entradas en relación al cluster cero ,habiendo un 7.33%
 del 100% aosicadas de esta manera en el dataset.
 
-5)
+
